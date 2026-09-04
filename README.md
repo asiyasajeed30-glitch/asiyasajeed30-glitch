@@ -50,7 +50,7 @@
 > Python Developer role where I can contribute to a data-driven engineering team.
 ```
 
-**🎯 Open To:** Data Science • Machine Learning • AI Engineering • Python Development • IT Support / Service Desk
+**🎯 Open To:** Data Science • Machine Learning • AI Engineering • Python Development • IT Support •Software Developer
 
 ---
 
