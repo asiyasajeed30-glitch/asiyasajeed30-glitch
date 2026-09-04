@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:6d28d9&height=220&section=header&text=Asiya%20Sajeed&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Computer%20Vision%20%26%20NLP%20%7C%20Python%20Developer&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CS+Engineering+Student;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+real-time+AI+applications;Open+to+Data+Science+%2F+ML+%2F+Python+roles&font=Fira+Code&center=true&width=650&height=45&color=C4B5FD&vCenter=true&size=22&pause=1200&background=00000000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Engineering+Graduate;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+real-time+AI+applications;Open+to+Data+Science+%2F+ML+%2F+Python+roles&font=Fira+Code&center=true&width=650&height=45&color=C4B5FD&vCenter=true&size=22&pause=1200&background=00000000" />
 </a>
 
 <br/>
