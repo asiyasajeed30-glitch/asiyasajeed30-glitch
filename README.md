@@ -125,22 +125,6 @@ Built end-to-end — from gesture data pipeline through model training to a depl
 
 </details>
 
-<details>
-<summary><b>🎓 DataMentor AI — Local AI-Powered Data Science Tutor</b></summary>
-<br/>
-
-A fully local, portfolio-grade AI tutor for learning data science, built on open-source LLM inference — no paid cloud APIs.
-
-| | |
-|---|---|
-| **Stack** | Streamlit, Ollama (llama3.2 for chat, nomic-embed-text for embeddings), ChromaDB, SQLite |
-| **Features** | Socratic/Explain chat tutor with misconception detection, quiz engine, CSV data-analyst mode |
-| **Personalization** | "Learning Twin" — SQLite-backed mastery tracking across topics |
-| **Retrieval** | RAG layer over markdown knowledge files using ChromaDB |
-
-Designed to run entirely offline, demonstrating end-to-end LLM application architecture without relying on external inference providers.
-
-</details>
 
 <details>
 <summary><b>💬 Sentiment Analysis Using LSTM</b></summary>
@@ -247,37 +231,6 @@ Covers Python for Data Science, Machine Learning, and Deep Learning, with applie
 
 ---
 
-### 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asiyasajeed30-glitch&theme=algolia&no-frame=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-### 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asiyasajeed30-glitch&theme=react-dark&hide_border=true&bg_color=0d0221&color=c4b5fd&line=8b5cf6&point=e9d5ff"/>
-
-</div>
-
----
-
-### 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/asiyasajeed30-glitch/asiyasajeed30-glitch/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> ⚠️ The snake animation needs a one-time GitHub Action set up in a repo named exactly `asiyasajeed30-glitch` (matching your username) to generate the `output` branch. Ask me if you'd like the workflow file for this.
-
----
 
 ### 🟣 Current Focus
 
